@@ -20,7 +20,7 @@ app.get("/", (req, res) => {
 });
 
 // const CONNECTION_URL =
-//   "mongodb+srv://shoharto:u0h19XgC503DIyT9@cluster1.ffeps.mongodb.net/memoriesProject?retryWrites=true&w=majority";
+//   "";
 const PORT = process.env.PORT || 5000;
 
 mongoose
